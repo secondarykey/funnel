@@ -1,0 +1,21 @@
+{
+    "mother":{
+        "host":"localhost",
+        "port":4443
+    },
+    "bit":{
+        "devices":{
+            [
+                {
+                    "id":"",
+                    "ip":"",
+                    "room":"private"
+                }
+            ]
+        }
+    },
+    "viewer":{
+        "host":"localhost",
+        "port":8080
+    }
+}
